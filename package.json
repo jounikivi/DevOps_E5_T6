@@ -2,7 +2,7 @@
   "name": "todo-with-github-actions-and-jest",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jounikivi.github.io/DevOps_E5_T6",
+  "homepage": "https://jounikivi.github.io/devops_e5_t6",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
